@@ -31,7 +31,7 @@
 	display: inline-block;
 	vertical-align: middle;
 	transition-delay: 2s;
-	margin-left: 40px;
+	margin-left: 40px; 
 }
 .meore:hover{
 	background-image: url(../images/heart.png);
