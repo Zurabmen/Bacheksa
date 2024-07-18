@@ -8,9 +8,13 @@
 	transition-property: all;
 	transition-delay: 0.2s;
 	transition-duration: 3s;
+	display: inline-block;
 
 }
 .bacheksa:hover{
 	background-image: url(https://png.pngtree.com/png-vector/20231224/ourmid/pngtree-hand-gesturing-with-middle-finger-finger-png-image_11213293.png);
 }
 
+.more{
+	display: inline-block;
+}
