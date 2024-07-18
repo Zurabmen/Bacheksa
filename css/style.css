@@ -24,7 +24,7 @@
 	width: 500px;
 	height: 500px;
 	background-size: cover;
-	background-image: url(../images/bacha.jpg);
+	background-image: url(https://scontent.ftbs8-1.fna.fbcdn.net/v/t1.6435-9/116263658_4141983435842853_326133688883151997_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=53a332&_nc_ohc=BTy5pK19XOcQ7kNvgFEMplT&_nc_ht=scontent.ftbs8-1.fna&oh=00_AYDhRTc6MDMTNaKc07WD20ezmmgl6PXwQbquzEN4MOM-jA&oe=66C0833A);
 	background-repeat: no-repeat;
 	transition-property: all;
 	transition-duration: 3s;
@@ -34,7 +34,7 @@
 	margin-left: 40px; 
 }
 .meore:hover{
-	background-image: url(../images/heart.png);
+	background-image: url(https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Hearts-PNG/Red_Heart_Transparent_PNG_Image.png?m=1629806779);
 	width: 650px;
 }
 .sityva{
