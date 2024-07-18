@@ -8,7 +8,7 @@
 	transition-property: all;
 	transition-duration: 3s;
 	display: inline-block;
-	vertical-align: top;
+	vertical-align: middle;
 
 }
 .bacheksa:hover{
@@ -17,5 +17,5 @@
 
 .more{
 	display: inline-block;
-	vertical-align: top;
+	vertical-align: middle;
 }
